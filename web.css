@@ -1,0 +1,15 @@
+.first{
+    background-image:url(./images/pic1.jpg);
+    height:700px;
+    width: 100%;
+    background-size: cover;
+}
+.sec{
+    height: 500px;
+    width: 100%;
+background-color: bisque
+;}
+.third{
+    width: 100%;
+    height: 100%;
+}
